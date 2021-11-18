@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj": {}
+  },
+  "projects": {
+    "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj",
+        "projectName": "BlazorWebAssemblySignalRApp.Client",
+        "projectPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj",
+        "packagesPath": "/Users/kevinmitnick/.nuget/packages/",
+        "outputPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kevinmitnick/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj": {
+                "projectPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.9, 5.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj",
+        "projectName": "BlazorWebAssemblySignalRApp.Shared",
+        "projectPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj",
+        "packagesPath": "/Users/kevinmitnick/.nuget/packages/",
+        "outputPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kevinmitnick/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

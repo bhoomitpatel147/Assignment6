@@ -1,0 +1,12 @@
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.deps.json
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.dll
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net5.0/ref/BlazorWebAssemblySignalRApp.Shared.dll
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.pdb
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.dll
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/ref/BlazorWebAssemblySignalRApp.Shared.dll
+/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.pdb

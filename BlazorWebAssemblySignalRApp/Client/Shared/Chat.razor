@@ -1,0 +1,108 @@
+@page "/chatRoom"
+@using Microsoft.AspNetCore.SignalR.Client
+@inject NavigationManager NavigationManager
+@implements IAsyncDisposable
+
+<h1>@currentHeading</h1>
+<br />
+<br />
+<p>
+    <label>
+        Enter ChatRoom Name:
+        <input @bind="newHeading" />
+    </label>
+    <button @onclick="UpdateHeading">
+        Enter
+    </button>
+</p>
+<div class="form-group">
+    <label>
+        User:
+        <input @bind="userInput" />
+    </label>
+</div>
+<div class="form-group">
+    <label>
+        Message:
+        <input @onkeypress="@Keypress" @bind="messageInput" size="50" />
+    </label>
+</div>
+
+<button @onclick="Send" disabled="@(!IsConnected)">Send</button>
+
+
+<hr>
+
+<ul id="messagesList">
+    @foreach (var message in messages)
+    {
+        <li>@message</li>
+    }
+</ul>
+
+@code {
+    private string currentHeading = "BhoomitPatel's lounge";
+    private string newHeading;
+    private void UpdateHeading()
+    {
+        currentHeading = $"{newHeading}";
+        newHeading = string.Empty;
+    }
+
+
+    private HubConnection hubConnection;
+    private List<string> messages = new List<string>();
+    private string userInput;
+    private string messageInput;
+
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        hubConnection = new HubConnectionBuilder()
+        .WithUrl(NavigationManager.ToAbsoluteUri("/chathub") + "?parameter=Anonymous")
+        .Build();
+
+        hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
+        {
+            var encodedMsg = $"{user}: {message}";
+            messages.Add(encodedMsg);
+            messageInput = string.Empty;
+
+            StateHasChanged();
+        });
+        userInput = "Bhoomit Patel";
+        messageInput = "How are you?";
+        messages.Add($"{userInput}: {messageInput}");
+        messageInput = string.Empty;
+        userInput = string.Empty;
+
+        await hubConnection.StartAsync();
+
+    }
+
+
+    async Task Send() =>
+    await hubConnection.SendAsync("SendMessage", userInput, messageInput);
+
+
+    public bool IsConnected =>
+    hubConnection.State == HubConnectionState.Connected && messageInput != string.Empty;
+
+
+
+    public async ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.DisposeAsync();
+        }
+    }
+
+    private void Keypress(KeyboardEventArgs args)
+    {
+        messageInput = null;
+    }
+
+}
