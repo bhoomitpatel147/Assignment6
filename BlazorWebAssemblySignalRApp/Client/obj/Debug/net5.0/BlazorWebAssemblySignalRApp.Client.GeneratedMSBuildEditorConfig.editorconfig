@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorWebAssemblySignalRApp.Client
-build_property.ProjectDir = /Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/
+build_property.ProjectDir = /Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/

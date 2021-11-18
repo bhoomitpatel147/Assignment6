@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WemSFnIhAxUEPSl6kuscbJxXPeH16FFI1tGiNSElWYHSu0NXs2oe9blP5akijat2NbCuLg8WWYDCE+1FHChrxQ==",
+  "dgSpecHash": "1xY1UgWMP9IYKXS5Qr28ghEKultSbZrQ3553nVtNgfaV+gdK1iBkka+/WxCpSUuS0QRfdD0NdsF4BDNU4JxxIg==",
   "success": true,
-  "projectFilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj",
+  "projectFilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj",
   "expectedPackageFiles": [
     "/Users/kevinmitnick/.nuget/packages/microsoft.aspnetcore.authorization/5.0.9/microsoft.aspnetcore.authorization.5.0.9.nupkg.sha512",
     "/Users/kevinmitnick/.nuget/packages/microsoft.aspnetcore.components/5.0.9/microsoft.aspnetcore.components.5.0.9.nupkg.sha512",

@@ -13,70 +13,70 @@ namespace BlazorWebAssemblySignalRApp.Client
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 1 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 2 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 3 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 4 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 5 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 6 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 7 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 8 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 9 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using BlazorWebAssemblySignalRApp.Client;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
+#line 10 "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor"
 using BlazorWebAssemblySignalRApp.Client.Shared;
 
 #line default

@@ -1172,11 +1172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Server/BlazorWebAssemblySignalRApp.Server.csproj",
+      "projectUniqueName": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Server/BlazorWebAssemblySignalRApp.Server.csproj",
       "projectName": "BlazorWebAssemblySignalRApp.Server",
-      "projectPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Server/BlazorWebAssemblySignalRApp.Server.csproj",
+      "projectPath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Server/BlazorWebAssemblySignalRApp.Server.csproj",
       "packagesPath": "/Users/kevinmitnick/.nuget/packages/",
-      "outputPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Server/obj/",
+      "outputPath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevinmitnick/.nuget/NuGet/NuGet.Config"
@@ -1191,11 +1191,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj": {
-              "projectPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj"
+            "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj": {
+              "projectPath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj"
             },
-            "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj": {
-              "projectPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj"
+            "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj": {
+              "projectPath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj"
             }
           }
         }

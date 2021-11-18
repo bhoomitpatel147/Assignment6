@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj": {}
+    "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj": {}
   },
   "projects": {
-    "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj": {
+    "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj",
+        "projectUniqueName": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj",
         "projectName": "BlazorWebAssemblySignalRApp.Shared",
-        "projectPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj",
+        "projectPath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Shared/BlazorWebAssemblySignalRApp.Shared.csproj",
         "packagesPath": "/Users/kevinmitnick/.nuget/packages/",
-        "outputPath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Shared/obj/",
+        "outputPath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kevinmitnick/.nuget/NuGet/NuGet.Config"

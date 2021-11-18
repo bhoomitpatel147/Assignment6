@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Server/BlazorWebAssemblySignalRApp.Server.csproj",
+  "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Server/BlazorWebAssemblySignalRApp.Server.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15984,7 +15984,7 @@
   "RootNamespace": "BlazorWebAssemblySignalRApp.Server",
   "Documents": [
     {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Server/Pages/Error.cshtml",
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Server/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }

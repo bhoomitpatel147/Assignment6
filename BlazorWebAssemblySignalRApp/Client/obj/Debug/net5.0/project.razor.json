@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj",
+  "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "5.0",
@@ -13042,49 +13042,49 @@
   "RootNamespace": "BlazorWebAssemblySignalRApp.Client",
   "Documents": [
     {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/Pages/Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/Shared/MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/Shared/SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/Shared/Chat.razor",
-      "TargetPath": "Shared\\Chat.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/Shared/NavMenu.razor",
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/Pages/FetchData.razor",
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/Pages/Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/Pages/Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/Shared/SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/Shared/MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/Pages/FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Volumes/EDUCATION/FinalAssignment6/BlazorWebAssemblySignalRApp/Client/Pages/Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/App.razor",
+      "TargetPath": "App.razor",
       "FileKind": "component"
+    },
+    {
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/Shared/Chat.razor",
+      "TargetPath": "Shared\\Chat.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Volumes/PERSONAL/BlazorWebAssemblySignalRApp/Client/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
     }
   ],
   "SerializationFormat": "0.2"
